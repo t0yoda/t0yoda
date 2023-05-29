@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Hi 👋, I'm Yoda
+A passionate backend developer from Canada
+
+    🔭 I am learning new things here and there
+    
+
+    
+
+Languages and Tools:
+
+docker java nginx linux mariadb mysql postgresql sqlite  
