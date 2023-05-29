@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **masteryoda-bot/masteryoda-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 
-                     Hi 👋, I'm Yoda
-         I do a bit of all backend frontend and so on
+###                   Hi 👋, I'm Yoda
+###      I do a bit of all backend frontend and so on
+### 
+###      🔭 I am learning new things here and there
+###     
+###    
+###                  Languages and Tools:
 
-       🔭 I am learning new things here and there
-    
-    
-                  Languages and Tools:
-
-     docker java nginx linux mariadb mysql postgresql sqlite  
+###     docker java nginx linux mariadb mysql postgresql sqlite  
     
