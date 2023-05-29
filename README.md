@@ -3,6 +3,7 @@
 <h3 align="center">I have no clue what i am doing hafe of the time</h3>
 
 - 🔥 I'm working on many things but that is for another time
+- 🦥 Oh and i am still learning the tools and Languages but it feels slow
 
 <p align="left">
 </p>
