@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 
 
-Hi 👋, I'm Yoda
-A passionate backend developer from Canada
+                     Hi 👋, I'm Yoda
+         I do a bit of all backend frontend and so on
 
-    🔭 I am learning new things here and there
+       🔭 I am learning new things here and there
     
-
     
+                  Languages and Tools:
 
-Languages and Tools:
-
-docker java nginx linux mariadb mysql postgresql sqlite  
+     docker java nginx linux mariadb mysql postgresql sqlite  
+    
