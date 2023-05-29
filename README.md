@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-###                   Hi 👋, I'm Yoda
+###                     Hi 👋, I'm Yoda
 ###      I do a bit of all backend frontend and so on
 ### 
 ###      🔭 I am learning new things here and there
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ###    
 ###                  Languages and Tools:
 
-###     docker java nginx linux mariadb mysql postgresql sqlite  
+###     <a href="https://www.docker.com/" rel="nofollow"> java nginx linux mariadb mysql postgresql sqlite  
     
