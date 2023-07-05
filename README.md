@@ -4,7 +4,6 @@
 
 - 🔥 I'm working on many things but that is for another time
 - 🦥 Oh and i am still learning the tools and Languages but it feels slow
-- 📨 and if you need someone as slow as me then get in touch with me here => <a href="mailto:yoda@plex.cc">yoda@plex.cc</a>
 
 <p align="left">
 </p>
