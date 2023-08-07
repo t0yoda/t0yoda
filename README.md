@@ -4,7 +4,7 @@
 Skills: JS / HTML / CSS / DOCKER /
 
 - 🔭 I’m currently working on my life and other things in life and yet here i am 
-- 🌱 I’m currently learning HTML / CSS / JS / PHP / DOCKER 
+- 🌱 I’m currently still learning HTML / CSS / JS / PHP / DOCKER 
 - 👯 I’m looking to collaborate on working on some volven projects 
 
 
